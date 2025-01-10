@@ -76,7 +76,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "light" # dark
 
   font:
     fontSize: 1.2rem # default: 1rem
@@ -351,7 +351,7 @@ params:
   singlePages:
     socialShare: true
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
