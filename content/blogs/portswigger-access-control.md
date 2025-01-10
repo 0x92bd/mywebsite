@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10T16:31:21+06:00'
 draft: false
-title: 'Portswigger Access Control'
+title: 'Portswigger - Access Control Labs Walkthrough'
 author: 'rakib'
 tags:
     - portswigger
