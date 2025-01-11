@@ -124,9 +124,6 @@ params:
       disableAchievements: false
       disableContact: false
 
-  # Hero Hello, I'm Rakib, a Junior Penetration Tester.  
-# I am an aspiring security professional with a strong passion for penetration testing. Currently working diligently to enhance my skills and knowledge, my ultimate goal is to excel as a Red Teamer and contribute to strengthening cybersecurity defenses.
-
   hero:
     enable: true
     intro: "Hi, my name is"
@@ -140,13 +137,13 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/mdrakibahmednishad_resume.pdf"
       download: true
       newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/mdrakibahmednishad/
+          url: https://www.linkedin.com/in/rakib-ahmed-nishad/
         - icon: fab fa-github
           url: https://github.com/0x92bd/
 
@@ -187,7 +184,7 @@ params:
         companyUrl: "https://bytecapsuleit.com"
         date: "Jan 2025 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://bytecapsuleit.com"
         content: "I am currently working as a intern at [Bytecapsule.](https://bytecapsuleit.com) in Dhaka, BD."
@@ -337,7 +334,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/0x92bd/
-      linkedin: https://www.linkedin.com/in/mdrakibahmednishad/
+      linkedin: https://www.linkedin.com/in/rakib-ahmed-nishad/
       tryhackme: https://tryhackme.com/r/p/0x92bd
       # twitter: https://twitter.com
       # instagram: https://instagram.com
