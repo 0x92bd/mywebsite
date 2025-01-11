@@ -137,7 +137,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/mdrakibahmednishad_resume.pdf"
+      url: "/mdrakibahmednishad_cv.pdf"
       download: true
       newPage: true
     socialLinks:
