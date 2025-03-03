@@ -27,8 +27,8 @@ Beyond my professional pursuits, I maintain a home lab where I experiment, learn
 
 **ByteCapsule**  
 _Intern | Jr Penetration Tester_  
-_January 2025 - Present_  
-I am currently working as an intern at [ByteCapsule](https://bytecapsuleit.com/) in Dhaka, BD.
+_January 2025 - February 2025_  
+I was working as an intern at [ByteCapsule](https://bytecapsuleit.com/) in Dhaka, BD. In this program, I was able to gain hands-on experience on Bug bounty, Web app pentesting, cloud security, and team building & leadership.
 
 ---
 
