@@ -74,9 +74,9 @@ In this course, I learned:
 - **eLearnSecurity Junior Penetration Tester - eJPT v1.0**  
   [Verify Certificate](https://verified.elearnsecurity.com/certificates/49ab4394-c64e-4463-af7a-f10f1f46651b)
 
----
+<!-- ---
 
-## View My Resume
+## View My Resume -->
 <!-- 
 {{< button href="mdrakibahmednishad_cv.pdf" target="_self" >}} 
 
