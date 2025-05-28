@@ -51,7 +51,7 @@ In this course, I learned:
 **eLearnSecurity Junior Penetration Tester - eJPT v1.0**  
 _December 2021_  
 [INE Security (FKA eLearnSecurity)](https://ine.com/)  
-Credential ID: 2087065  
+Credential ID: 79632591  
 In this course, I learned:
 
 - Assessment Methodologies
@@ -59,20 +59,20 @@ In this course, I learned:
 - Host and Network Penetration Testing
 - Web Application Penetration Testing
 
-[Verify Certificate](https://verified.elearnsecurity.com/certificates/49ab4394-c64e-4463-af7a-f10f1f46651b)
+[Verify Certificate](https://certs.ine.com/fa9b0f70-cbfb-4a87-8034-90b8be837960)
 
 ---
 
 ## Achievements
 
-- **TryHackMe Top 2%**  
+- **TryHackMe Top 3%**  
   Check out my [TryHackMe profile](https://tryhackme.com/r/p/0x92bd) to see my progress and achievements.
 
 - **Ethical Hacking for Professionals - EHP**  
   Passed with grade A, Batch 06. [Verify Certificate](https://bytecapsuleit.com/)
 
 - **eLearnSecurity Junior Penetration Tester - eJPT v1.0**  
-  [Verify Certificate](https://verified.elearnsecurity.com/certificates/49ab4394-c64e-4463-af7a-f10f1f46651b)
+  [Verify Certificate](https://certs.ine.com/fa9b0f70-cbfb-4a87-8034-90b8be837960)
 
 <!-- ---
 
